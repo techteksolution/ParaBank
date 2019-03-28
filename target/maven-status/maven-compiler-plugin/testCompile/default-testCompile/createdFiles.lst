@@ -1,0 +1,16 @@
+Services/GetCustomer.class
+WebDriverManager/WebDriverManager.class
+Services/TransferFunds.class
+Util/Lib.class
+Services/CreateNewAccount.class
+PageObjects/BasePage.class
+PageObjects/LandingPage.class
+PageObjects/RegistrationPage.class
+PageObjects/WelcomePage.class
+Runners/ParaBank_Runner.class
+Services/Deposit.class
+Steps/Steps.class
+UnitTest/GetCustomer.class
+Constants/Constants.class
+UnitTest/LaunchChrome.class
+Services/Withdraw.class

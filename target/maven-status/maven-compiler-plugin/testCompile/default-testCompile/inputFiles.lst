@@ -1,0 +1,16 @@
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/Runners/ParaBank_Runner.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/Util/Lib.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/PageObjects/RegistrationPage.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/UnitTest/LaunchChrome.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/Services/CreateNewAccount.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/Services/Withdraw.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/PageObjects/BasePage.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/PageObjects/WelcomePage.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/Services/TransferFunds.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/PageObjects/LandingPage.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/Services/GetCustomer.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/Constants/Constants.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/WebDriverManager/WebDriverManager.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/Services/Deposit.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/UnitTest/GetCustomer.java
+/Users/sami/Desktop/GitTechTekSolution/ParaBank/src/test/java/Steps/Steps.java
